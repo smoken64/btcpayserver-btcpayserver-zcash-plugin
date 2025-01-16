@@ -1,0 +1,1 @@
+# btcpayserver-btcpayserver-zcash-plugin
